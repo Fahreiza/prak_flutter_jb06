@@ -75,13 +75,13 @@ class MyApp extends StatelessWidget {
         'outdoor adventures, or simply relaxing in the serene pine forest. With its '
         'combination of natural beauty and recreational facilities, Coban Rondo offers '
         'a perfect getaway for both families and adventure seekers.\n\n'
-        'Agna Putra Prawira - 2341720065',
+        'Fahreiza Taura Muhammadani - 2341720',
       ),
     );
 
     // 🔹 Body dengan ListView (Step 2)
     return MaterialApp(
-      title: 'Flutter layout: Agna Putra Prawira (2341720065)',
+      title: 'Flutter layout: Fahreiza Taura Muhammadani (2341720)',
       home: Scaffold(
         appBar: AppBar(
           title: const Text('Flutter layout demo'),
